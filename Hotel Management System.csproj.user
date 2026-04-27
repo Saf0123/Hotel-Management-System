@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuestMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
